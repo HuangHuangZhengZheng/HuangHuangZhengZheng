@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuangHuangZhengZheng
 - 👀 I’m interested in Systems and AI (currently focus on deep learning)
-- 🌱 I’m currently learning CS186 from UCB
+- 🌱 I’m currently learning CS186 from UCB, 10-414 from CMU
 - ⚡ Fun fact: see more from my site 😜
 
 
