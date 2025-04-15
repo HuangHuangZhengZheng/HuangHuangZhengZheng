@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HuangHuangZhengZheng
-- 👀 I’m interested in Systems and AI (currently focus on deep learning & dlsys :yum:)
-- 🌱 I’m currently learning CS61C from UCB, eecs498 from Umich
+- 👋 Hi, I’m @HuangHuangZhengZheng, currently a undergrad student from Shanghai Jiao Tong University! SJTU😋
+- 👀 I’m interested in ~~Systems and AI (currently focus on deep learning & dlsys :yum:)~~, decided to dive into GenAI now...
+- 🌱 I’m currently focusing on the LiDAR 3/4D generation for autonomous driving or Large World Model 😉
 - ⚡ Fun fact: see more from my site 😜
 
 
